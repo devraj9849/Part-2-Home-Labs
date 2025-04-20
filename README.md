@@ -1,6 +1,4 @@
 
-![activedirectory](https://github.com/user-attachments/assets/0a4e73a0-2f09-43a8-bcf4-ddb083e2591b)
-
 <h1>Part 5: Configure Zeek and Suricata</h1>
 
 For Zeek and Suricata virtual machine, I will install an ubuntu machine with its name zeekandsuricata.
